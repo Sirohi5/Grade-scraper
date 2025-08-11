@@ -1,0 +1,54 @@
+{
+  "grades": [
+    {
+      "Titel": "Mathematik I",
+      "Modul": "MAT101",
+      "Semester": "WS 2024/25",
+      "Datum": "15.02.2025",
+      "Note": 1.7,
+      "Credits": 6,
+      "Status": "Bestanden"
+    },
+    {
+      "Titel": "Programmierung Grundlagen",
+      "Modul": "INF101",
+      "Semester": "WS 2024/25",
+      "Datum": "20.02.2025",
+      "Note": 2.0,
+      "Credits": 8,
+      "Status": "Bestanden"
+    },
+    {
+      "Titel": "Datenbanken",
+      "Modul": "INF201",
+      "Semester": "SS 2025",
+      "Datum": "25.07.2025",
+      "Note": 1.3,
+      "Credits": 6,
+      "Status": "Bestanden"
+    },
+    {
+      "Titel": "Algorithmik",
+      "Modul": "INF202",
+      "Semester": "SS 2025",
+      "Datum": "30.07.2025",
+      "Note": 4.7,
+      "Credits": 6,
+      "Status": "Nicht bestanden"
+    },
+    {
+      "Titel": "Softwareengineering",
+      "Modul": "INF301",
+      "Semester": "WS 2025/26",
+      "Datum": "12.02.2026",
+      "Note": 2.3,
+      "Credits": 8,
+      "Status": "Bestanden"
+    }
+  ],
+  "summary": {
+    "Gesamtdurchschnitt": null,
+    "Credits erhalten": "Bestandene Prüfungen:\n4 / 5",
+    "Bestandene Prüfungen": "← Zurück Zur Startseite"
+  }
+}
